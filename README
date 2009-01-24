@@ -1,0 +1,3 @@
+* This plugin require net/http.
+* This plugin requires zlib.
+* This plugin requires rexml.
